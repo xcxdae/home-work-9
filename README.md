@@ -6,23 +6,17 @@ year: 2025
 description: >
   Односторінковий сайт-портфоліо, створений за макетом із Figma. Проєкт демонструє навички адаптивної верстки, роботи з сучасними CSS, організації структури HTML та інтеграції мультимедійного контенту.
 sections:
-  header:
-    title: "Header"
+  - name: "Header"
     description: "Верхня частина сайту з навігаційним меню та hero-блоком. Містить логотип, меню з посиланнями та заклик до дії."
-  about:
-    title: "About"
+  - name: "About"
     description: "Блок 'Про мене' з коротким описом автора та його навичок."
-  experience:
-    title: "Experience"
+  - name: "Experience"
     description: "Секція з досвідом — статистика виконаних проектів, оформлена у вигляді карток з іконками."
-  process:
-    title: "Process"
+  - name: "Process"
     description: "Опис процесу роботи — короткий текст про підхід до виконання завдань."
-  video:
-    title: "Video"
+  - name: "Video"
     description: "Вбудоване відео з YouTube для демонстрації або презентації."
-  footer:
-    title: "Footer"
+  - name: "Footer"
     description: "Футер з ім’ям автора та роком виконання роботи."
 technologies:
   - HTML5
@@ -35,7 +29,7 @@ technologies:
 # Проект: Домашнє завдання №9
 
 **Виконав:**  
-студент групи *Fullstack*  
+студент групи _Fullstack_  
 Денега Вадим
 
 ---
